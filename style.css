@@ -1,0 +1,9 @@
+.container{
+    margin: 0 auto;
+    border: 1px solid #000;
+    width: 900px;
+    background-color: aliceblue;
+}
+body{
+    background-image: linear-gradient(to right,rgba(245, 153, 225, 0.575), rgb(188, 132, 252),rgb(132, 160, 252));
+}
